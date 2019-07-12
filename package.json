@@ -1,0 +1,22 @@
+{
+  "name": "projeto-logistica",
+  "version": "1.0.0",
+  "description": "link: https://colorlib.com/preview/#depot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ogeda/projeto-logistica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ogeda/projeto-logistica/issues"
+  },
+  "homepage": "https://github.com/Ogeda/projeto-logistica#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
