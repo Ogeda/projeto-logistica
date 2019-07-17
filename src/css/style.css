@@ -4,26 +4,10 @@
   text-decoration: none;
   list-style: none; }
 
-.container {
-  width: 1200px;
-  margin: 0 auto; }
-
-.topo-barra-superior {
+.top-bar {
   background: #EEEEEE;
-  height: 50px; }
+  height: 50px;
+  padding: 10px 0 10px; }
 
-.topo-menu {
-  background: #fff;
-  height: 100px; }
-
-.topo-menu h1 {
-  float: left; }
-
-.menu {
+.direita {
   float: right; }
-
-.menu li {
-  display: inline; }
-
-.clear {
-  clear: both; }
