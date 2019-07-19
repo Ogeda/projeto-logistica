@@ -13,5 +13,17 @@
 .direita {
   float: right; }
 
-.menu h1 {
-  color: #007BFF; }
+.navbar {
+  height: 100px; }
+
+.navbar-brand {
+  color: #007BFF;
+  font-size: 30px;
+  font-weight: 700; }
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1.5rem; }
+
+.nav-item {
+  color: #333333;
+  font-size: 18px; }

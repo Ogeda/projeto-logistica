@@ -1,6 +1,7 @@
 # Site - logística
 
 link: https://colorlib.com/preview/#depot
+link direto: https://colorlib.com/preview/theme/depot/
 
 * CORES
 - Azul-site - #007BFF
