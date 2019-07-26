@@ -27,3 +27,14 @@
 .nav-item {
   color: #333333;
   font-size: 18px; }
+
+.menu-img {
+  background-size: cover;
+  background-image: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  height: 100vh;
+  min-height: 600px; }
+
+.teste {
+  margin-top: 50px; }
