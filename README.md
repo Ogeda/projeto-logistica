@@ -8,6 +8,7 @@ link direto: https://colorlib.com/preview/theme/depot/
 - Bege-topo - #EEEEEE
 - branco-Fundo - #F6F5F5
 - Preto-rodapé - #333333
+- Texto-cinza - #999999
 
 * instalação das depedências em outro PC :
 
