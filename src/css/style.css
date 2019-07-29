@@ -40,23 +40,26 @@
   height: 100vh;
   min-height: 600px; }
 
+.feature {
+  background-color: #fff; }
+
 .coluna {
   float: left;
   position: relative;
   text-align: center;
   width: 330px;
   margin: 0 10px 40px;
-  padding-top: 100px; }
+  padding: 100px 0 100px 0; }
 
 .coluna + .coluna {
   margin-left: 40px; }
 
 /*.feature h2 {
-    color: red;
-    font-size: 30px;
-    line-height: 24px;
-    text-align: center;
-    padding: 75px 0 0 0;
+  color: red;
+  font-size: 30px;
+  line-height: 24px;
+  text-align: center;
+  padding: 75px 0 0 0;
  } */
 .feature h3 {
   font-family: 'Montserrat', sans-serif;
@@ -73,3 +76,16 @@
   font-size: 14px;
   line-height: 26px;
   padding-top: 15px; }
+
+.services {
+  border: 4px solid #007BFF; }
+
+.fundo-services h2 {
+  font-size: 50px;
+  text-align: center;
+  color: #007BFF; }
+
+.fundo-services p {
+  font-size: 18px;
+  color: #999999;
+  text-align: center; }
