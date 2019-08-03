@@ -16,3 +16,8 @@ link direto: https://colorlib.com/preview/theme/depot/
     - Instalar o node
     - 'npm i ' --> instalação das dependências do projeto
     - 'npm i gulp -g --> instalação do gulp para o projeto rodar
+
+## Documentações
+#### SASS - https://sass-lang.com/guide
+#### grid bootstrap - https://getbootstrap.com/docs/4.3/layout/grid/
+#### flexbox - https://origamid.com/projetos/flexbox-guia-completo/?source=post_page---------------------------
