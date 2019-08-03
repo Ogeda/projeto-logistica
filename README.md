@@ -4,7 +4,7 @@ link: https://colorlib.com/preview/#depot
 
 link direto: https://colorlib.com/preview/theme/depot/
 
-## CORES
+## Cores
 * azul-texto - #007BFF
 * bege-topo - #EEEEEE
 * branco-Fundo - #F6F5F5
@@ -12,7 +12,7 @@ link direto: https://colorlib.com/preview/theme/depot/
 * cinza-texto - #999999
 
 ## Configuração
-##### instalação das depedências em outro PC :
+##### Instalação das depedências em outro PC :
 
     - Instalar o node
     - 'npm i ' --> instalação das dependências do projeto
