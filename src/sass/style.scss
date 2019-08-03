@@ -1,56 +1,13 @@
-* {
-  padding: 0;
-  margin: 0;
-  text-decoration: none;
-  list-style: none;
-}
+@import 'conf';
 
 .container {
   width: 1200px;
   margin: 0 auto;
 }
 
-.top-bar {
-  background: #EEEEEE;
-  height: 50px;
-  padding: 15px 0 10px;
-  color: #333;
-}
-
-.direita {
-  float: right
-}
-
-.navbar {
-  height: 100px;
-}
-
-.navbar-brand {
-  color: #007BFF;
-  font-size: 30px;
-  font-weight: 700;
-}
-
-.navbar-expand-lg .navbar-nav .nav-link {
-  padding-right: 1.5rem; 
-}
-
-.nav-item {
-  color:#333333;
-  font-size: 18px;
-}
-
-.menu-img{
-  background-size: cover;
-  background-image: center center;
-  background-repeat: no-repeat;
-  overflow: hidden;
-  height: 100vh;
-  min-height: 600px;
-}
-
-.feature {
+.base-3-colunas {
   background-color: #fff;
+  height: 540px;
 }
 
 .coluna {
@@ -63,50 +20,31 @@
 }
 
 .coluna + .coluna {
-    margin-left: 40px; 
+  margin-left: 40px; 
 } 
 
-/*.feature h2 {
-  color: red;
-  font-size: 30px;
-  line-height: 24px;
-  text-align: center;
-  padding: 75px 0 0 0;
- } */
-
-
-.feature h3 {
-  font-family: 'Montserrat', sans-serif;
-  color: #007BFF;
-  line-height: 24px;
-  font-size: 24px;
-  padding-top: 50px;
-  text-transform: uppercase;
+.coluna h3 {
+  font-family: $font;
+  font-size: 22,4px;
+  color: $azul-texto;
+  margin: 20px;
 }
 
-.feature p {
-  font-family: 'Lato', sans-serif;
-  color: #999999;
-  font-weight: 600;
-  font-size: 14px;
-  line-height: 26px;
-  padding-top: 15px;
+.coluna p {
+  font-family: $font;
+  color: $cinza-texto;
+  margin: 10px;
 }
+
 
 .services {
-  border: 4px solid #007BFF;
+  background-color: $branco-Fundo;
+  padding-top: 60px;
 }
-
-.fundo-services h2 {
-  font-size: 50px;
+        
+.services h2 {
+  font-size: 48px;
+  color: $azul-texto; 
   text-align: center;
-  color: #007BFF;
+  font-family: $font;
 }
-
-.fundo-services p {
-  font-size: 18px;
-  color: #999999;
-  text-align: center;
-}
-
-
