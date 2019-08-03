@@ -43,3 +43,9 @@
   color: #007BFF;
   text-align: center;
   font-family: "Raleway", sans-serif; }
+
+.services p {
+  font-family: "Raleway", sans-serif;
+  color: #999999;
+  text-align: center;
+  margin: 10px; }
