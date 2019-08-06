@@ -22,3 +22,7 @@ link direto: https://colorlib.com/preview/theme/depot/
 #### SASS - https://sass-lang.com/guide
 #### grid bootstrap - https://getbootstrap.com/docs/4.3/layout/grid/
 #### flexbox - https://origamid.com/projetos/flexbox-guia-completo/?source=post_page---------------------------
+
+### Efeito paralax
+#### https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm
+#### https://www.w3schools.com/howto/howto_css_parallax.asp
