@@ -17,6 +17,9 @@ link direto: https://colorlib.com/preview/theme/depot/
     - Instalar o node
     - 'npm i ' --> instalação das dependências do projeto
     - 'npm i gulp -g --> instalação do gulp para o projeto rodar
+    
+    - inicializar o projeto para trabalhar
+    - 'gulp'
 
 ## Documentações
 #### SASS - https://sass-lang.com/guide
